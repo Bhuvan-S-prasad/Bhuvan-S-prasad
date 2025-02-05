@@ -12,12 +12,17 @@
 
 - 🔭 I’m currently working on **Image Classification using CNN**
 
-- 🌱 I’m currently learning **AI & Data Science, Machine Learning, Neural Networks and PyTorch**
+- 🌱 I’m currently learning **AI & Data Science, Machine Learning, Neural Networks and MLops**
+
+- 👨‍💻 visit my portfolio [bhuvan-s-prasad.github.io/portfolio/](https://bhuvan-s-prasad.github.io/portfolio/)
+
+- 📫 How to reach me **bhuvansprasad20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bhuvan s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhuvan s" height="30" width="40" /></a>
 <a href="https://kaggle.com/bhuvansprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bhuvansprasad" height="30" width="40" /></a>
+<a href="https://instagram.com/bhuvan_s_prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhuvan_s_prasad" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
@@ -54,8 +59,20 @@
       </a>
       <br>Figma
     </td>
+    <td align="center" width="100px">
+      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+      </a>
+      <br>Flask
+    </td>
   </tr>
   <tr>
+    <td align="center" width="100px">
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+      </a>
+      <br>Git
+    </td>
     <td align="center" width="100px">
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -118,13 +135,37 @@
       </a>
       <br>PyTorch
     </td>
+    <td align="center" width="100px">
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+      </a>
+      <br>React
+    </td>
   </tr>
   <tr>
     <td align="center" width="100px">
       <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
       </a>
-      <br>Scikit-Learn
+      <br>Scikit-learn
+    </td>
+    <td align="center" width="100px">
+      <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+      </a>
+      <br>Seaborn
+    </td>
+    <td align="center" width="100px">
+      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+      </a>
+      <br>TensorFlow
+    </td>
+    <td align="center" width="100px">
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+      </a>
+      <br>TypeScript
     </td>
   </tr>
 </table>
