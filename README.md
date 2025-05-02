@@ -167,6 +167,13 @@
       </a>
       <br>TypeScript
     </td>
+    <td align="center" width="100px">
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://images.seeklogo.com/logo-png/61/1/langchain-icon-white-logo-png_seeklogo-611656.png" alt="LangChain" width="40" height="40"/>
+  </a>
+  <br>LangChain
+</td>
+
   </tr>
 </table>
 
