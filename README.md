@@ -162,12 +162,6 @@
       <br>TensorFlow
     </td>
     <td align="center" width="100px">
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="100px">
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
     <img src="https://images.seeklogo.com/logo-png/61/1/langchain-icon-white-logo-png_seeklogo-611656.png" alt="LangChain" width="40" height="40"/>
   </a>
