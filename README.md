@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **Image Classification using CNN**
-- 🌱 I'm currently learning **AI & Data Science, Machine Learning, Neural Networks and MLops**
+- 🌱 I'm currently learning **AI & Data Science, Machine Learning, Neural Networks, MLops and web development**
 - 👨‍💻 Visit my portfolio: [bhuvan-s-prasad.github.io/portfolio](https://bhuvan-s-prasad.github.io/portfolio/)
 - 📫 Reach me at **bhuvansprasad20@gmail.com**
 
