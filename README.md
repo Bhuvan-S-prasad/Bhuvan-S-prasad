@@ -174,7 +174,7 @@ class BhuvanS(AIEngineer):
 <br/>
 
 
- ══════════════════ 3D SKYLINE ══════════════════ 
+<!-- ══════════════════ 3D SKYLINE ══════════════════ 
 <div align="center">
 
 ## 🏙️ Contribution Skyline
@@ -185,6 +185,7 @@ class BhuvanS(AIEngineer):
 </picture>
 
 </div>
+-->
 
 
 <!-- ══════════════════ CONNECT ══════════════════ -->
