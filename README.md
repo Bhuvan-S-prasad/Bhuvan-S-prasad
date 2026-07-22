@@ -1,141 +1,138 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Hi%20there,%20I'm%20Bhuvan%20S%20👋&fontSize=42&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=AI%20Engineer%20&descAlignY=58&descSize=18" width="100%"/>
+<!-- ══════════════════ HEADER ══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:1a1b27,100:0D1117&height=250&section=header&text=BHUVAN%20S&fontSize=70&fontColor=70A5FD&animation=fadeIn&desc=⟨%20initializing%20agent...%20⟩&descSize=20&descAlignY=75&stroke=BB9AF7&strokeWidth=1" width="100%"/>
 
+<!-- ══════════════════ BOOT SEQUENCE ══════════════════ -->
 <a href="https://bhuvan-s-prasad.github.io/portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=A9FEF7&background=0D1117&center=true&vCenter=true&width=750&height=60&lines=Architecting+Multi-Agent+AI+Systems;Building+ReAct+%26+Deep+Agents;From+CNNs+to+Autonomous+LLM+Agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=7AA2F7&background=0D111700&center=true&vCenter=true&width=800&height=70&lines=%3E+agent.init()+...+%E2%9C%93+ONLINE;%3E+role%3A+AI+Engineer+%7C+Agentic+Systems;%3E+loading%3A+ReAct+Agents+%2B+Deep+Agents;%3E+status%3A+building+the+future%2C+autonomously" alt="Typing SVG" />
 </a>
-<br>
-<img src="https://komarev.com/ghpvc/?username=bhuvan-s-prasad&label=PROFILE%20VIEWS&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
 </div>
 
-<br/>
+<!-- ══════════════════ ABOUT ══════════════════ -->
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28"> System Profile
 
-## 🧭 About Me
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320">
 
-```yaml
-name: Bhuvan S
-role: AI Engineer
-focus: Agentic AI & Multi-Agent Systems
-evolution: machine Learning -> Computer Vision -> Deep Learning -> Agentic AI / LLMs
-currently_building:
-  - ReAct Agents
-  - Deep Agents
-  - Multi-Agent Architectures
-currently_learning:
-  - LLM Orchestration & Tool-Calling
-  - Agentic Workflows 
-  - MLOps for Agent Deployment
-fun_fact: "My agents plan better than I do."
+```python
+class BhuvanS(AIEngineer):
+
+    def __init__(self):
+        self.evolution = [
+            "Machine Learning",      # where it began
+            "Computer Vision",       # taught machines to see
+            "Deep Learning",         # taught them to think
+            "Agentic AI"             # now they act on their own
+        ]
+        self.building  = ["ReAct Agents", "Deep Agents",
+                          "Multi-Agent Architectures"]
+        self.learning  = ["LLM Orchestration", "Tool-Calling",
+                          "MLOps for Agents"]
+
+    def fun_fact(self):
+        return "My agents plan better than I do 🤖"
 ```
 
-- 🔭 &nbsp;Currently building **autonomous ReAct & Deep Agents with multi-agent architectures**
-- 🧠 &nbsp;Evolved from **CNNs & Computer Vision → Agentic AI & LLMs**
-- 🌱 &nbsp;Currently learning **LLM orchestration, agentic workflows & multi-agent coordination**
-- 💬 &nbsp;Ask me about **Agentic AI, ReAct Agents, LLMs, or DeepLearning**
-- 📫 &nbsp;Reach me at **bhuvansprasad20@gmail.com**
-- 🌐 &nbsp;Portfolio: **[bhuvan-s-prasad.github.io/portfolio](https://bhuvan-s-prasad.github.io/portfolio/)**
-
-<br/>
-
-## 🌐 Connect with Me
+<br clear="right"/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhuvan-s)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/bhuvansprasad)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhuvan-s-prasad)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://bhuvan-s-prasad.github.io/portfolio/)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhuvansprasad20@gmail.com)
+`⚡ Building autonomous agents` &nbsp;•&nbsp; `🧠 CNN → LLM evolution arc` &nbsp;•&nbsp; `🌱 Orchestrating multi-agent swarms`
 
 </div>
 
 <br/>
 
-## 🛠️ Tech Stack
+<!-- ══════════════════ TECH STACK ══════════════════ -->
+## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="28"> Tech Arsenal
 
 <div align="center">
 
-**Languages**
+<table>
+<tr>
+<td valign="top" width="50%">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+#### 🤖 Agentic AI & LLMs
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark"/><br/>
+<img src="https://img.shields.io/badge/LangChain-1a1b27?style=for-the-badge&logo=langchain&logoColor=7AA2F7"/>
+<img src="https://img.shields.io/badge/LangGraph-1a1b27?style=for-the-badge&logo=langgraph&logoColor=BB9AF7"/>
+<img src="https://img.shields.io/badge/OpenAI-1a1b27?style=for-the-badge&logo=openai&logoColor=7AA2F7"/>
+<img src="https://img.shields.io/badge/🤗_HuggingFace-1a1b27?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ReAct_Agents-1a1b27?style=for-the-badge&logo=robotframework&logoColor=BB9AF7"/>
+<img src="https://img.shields.io/badge/Deep_Agents-1a1b27?style=for-the-badge&logo=robotframework&logoColor=7AA2F7"/>
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-1a1b27?style=for-the-badge&logo=graphql&logoColor=9ECE6A"/>
+<img src="https://img.shields.io/badge/Vector_DB-1a1b27?style=for-the-badge&logo=databricks&logoColor=F7768E"/>
 
-**Web Development**
+</td>
+<td valign="top" width="50%">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+#### 👁️ Vision, Data & Web
+<img src="https://skillicons.dev/icons?i=opencv,sklearn,react,flask,js,html,css&theme=dark"/><br/>
+<img src="https://img.shields.io/badge/Pandas-1a1b27?style=for-the-badge&logo=pandas&logoColor=7AA2F7"/>
+<img src="https://img.shields.io/badge/NumPy-1a1b27?style=for-the-badge&logo=numpy&logoColor=BB9AF7"/>
 
-**Agentic AI & LLMs**
+#### 🗄️ Databases & Tools
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,figma&theme=dark"/>
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![ReAct Agents](https://img.shields.io/badge/ReAct_Agents-4B0082?style=for-the-badge&logo=robotframework&logoColor=white)
-![Deep Agents](https://img.shields.io/badge/Deep_Agents-6A0DAD?style=for-the-badge&logo=robotframework&logoColor=white)
-![Multi--Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-2E8B57?style=for-the-badge&logo=graphql&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector_DB-FF6F61?style=for-the-badge&logo=databricks&logoColor=white)
-
-**Deep Learning & Computer Vision**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-**Data Science**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Databases & Tools**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-## 📊 GitHub Analytics
+<!-- ══════════════════ STATS ══════════════════ -->
+## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="28"> Telemetry
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhuvan-s-prasad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=bhuvan-s-prasad&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bhuvan-s-prasad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=bhuvan-s-prasad&theme=tokyonight&hide_border=true&background=0D1117&ring=BB9AF7&fire=7AA2F7&currStreakLabel=7AA2F7" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan-s-prasad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan-s-prasad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&langs_count=8" width="49%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhuvan-s-prasad&bg_color=0D1117&color=7AA2F7&line=BB9AF7&point=9ECE6A&area=true&hide_border=true" width="97%"/>
 
 </div>
 
 <br/>
 
-## 🏆 GitHub Trophies
-
+<!-- ══════════════════ SNAKE ANIMATION ══════════════════ -->
 <div align="center">
-  <img src="https://github-trophy.vercel.app/?username=bhuvan-s-prasad&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+## 🐍 The Agent Consuming My Contributions
+
+<img src="https://raw.githubusercontent.com/bhuvan-s-prasad/bhuvan-s-prasad/output/github-snake-dark.svg" width="100%"/>
+
 </div>
 
 <br/>
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhuvan-s-prasad&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
-
-<br/>
+<!-- ══════════════════ CONNECT ══════════════════ -->
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="28"> Establish Connection
 
 <div align="center">
 
-### 💭 "The best way to predict the future is to build it."
+<a href="https://linkedin.com/in/bhuvan-s"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7"/></a>
+<a href="https://kaggle.com/bhuvansprasad"><img src="https://img.shields.io/badge/Kaggle-1a1b27?style=for-the-badge&logo=kaggle&logoColor=20BEFF"/></a>
+<a href="https://bhuvan-s-prasad.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=firefox&logoColor=BB9AF7"/></a>
+<a href="mailto:bhuvansprasad20@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=F7768E"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer" width="100%"/>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=bhuvan-s-prasad&label=VISITORS&color=1a1b27&style=for-the-badge" alt="Profile Views"/>
+
+<br/><br/>
+
+<!-- ══════════════════ FOOTER ══════════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=%22The+best+way+to+predict+the+future+is+to+build+it.%22;%3E+agent.shutdown()+...+see+you+soon+%F0%9F%91%8B" alt="Footer typing"/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:1a1b27,100:0D1117&height=140&section=footer&stroke=7AA2F7&strokeWidth=1" width="100%"/>
 
 </div>
