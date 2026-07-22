@@ -110,7 +110,6 @@ class BhuvanS(AIEngineer):
       <img src="https://img.shields.io/badge/Flask-C026D3?style=for-the-badge&logo=flask&logoColor=white"/>
       <img src="https://img.shields.io/badge/Node.js-C026D3?style=for-the-badge&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Next.js-C026D3?style=for-the-badge&logo=next.js&logoColor=white"/>
-     
     </td>
   </tr>
   <tr>
