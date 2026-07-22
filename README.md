@@ -174,7 +174,7 @@ class BhuvanS(AIEngineer):
 <br/>
 
 
-<!-- ══════════════════ 3D SKYLINE ══════════════════ 
+ ══════════════════ 3D SKYLINE ══════════════════ 
 <div align="center">
 
 ## 🏙️ Contribution Skyline
@@ -184,7 +184,7 @@ class BhuvanS(AIEngineer):
   <img src="https://raw.githubusercontent.com/bhuvan-s-prasad/bhuvan-s-prasad/main/profile-3d-contrib/profile-green-animate.svg" width="100%"/>
 </picture>
 
-</div> -->
+</div>
 
 
 <!-- ══════════════════ CONNECT ══════════════════ -->
