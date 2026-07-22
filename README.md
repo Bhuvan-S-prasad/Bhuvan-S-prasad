@@ -52,44 +52,46 @@ class BhuvanS(AIEngineer):
 
 
 <!-- ══════════════════ TECH STACK ══════════════════ -->
-## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="28"> Tech Arsenal
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="180">
-      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="45"/><br/>
-      <strong>🤖 Agentic AI<br/>& LLMs</strong>
+    <td align="center" width="170">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="55" /><br/>
+      <strong>Agentic AI<br/>& LLMs</strong>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/LangChain-4F46E5?style=for-the-badge&logo=langchain&logoColor=white"/>
-      <img src="https://img.shields.io/badge/LangGraph-4F46E5?style=for-the-badge&logo=langgraph&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OpenAI-4F46E5?style=for-the-badge&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/🤗_HuggingFace-4F46E5?style=for-the-badge"/>
-      <br/>
-      <img src="https://img.shields.io/badge/ReAct_Agents-4F46E5?style=for-the-badge&logo=robotframework&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Deep_Agents-4F46E5?style=for-the-badge&logo=robotframework&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Multi--Agent_Systems-4F46E5?style=for-the-badge&logo=graphql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vector_DB-4F46E5?style=for-the-badge&logo=databricks&logoColor=white"/>
+      <sub><strong>FRAMEWORKS</strong></sub><br/>
+      <img src="https://img.shields.io/badge/LangChain-4338CA?style=for-the-badge&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-LangGraph-6366F1?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/HuggingFace-4338CA?style=for-the-badge&logo=huggingface&logoColor=white"/>
+      <br/><br/>
+      <sub><strong>CONCEPTS</strong></sub><br/>
+      <img src="https://img.shields.io/badge/-RAG-6366F1?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/-ReAct_Agents-6366F1?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/-Deep_Agents-6366F1?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/-Multi--Agent_Systems-6366F1?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/-Vector_Databases-6366F1?style=for-the-badge"/>
     </td>
   </tr>
   <tr>
-    <td align="center" width="180">
-      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="45"/><br/>
-      <strong>🧠 Deep Learning<br/>& Computer Vision</strong>
+    <td align="center" width="170">
+      <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="55"/><br/>
+      <strong>Deep Learning<br/>& Computer Vision</strong>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/PyTorch-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TensorFlow-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OpenCV-7C3AED?style=for-the-badge&logo=opencv&logoColor=white"/>
-      <img src="https://img.shields.io/badge/scikit--learn-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyTorch-6D28D9?style=for-the-badge&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorFlow-6D28D9?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-6D28D9?style=for-the-badge&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/scikit--learn-6D28D9?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td align="center" width="180">
-      <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="45"/><br/>
-      <strong>📊 Languages<br/>& Data Science</strong>
+    <td align="center" width="170">
+      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="55"/><br/>
+      <strong>Languages<br/>& Data Science</strong>
     </td>
     <td>
       <img src="https://img.shields.io/badge/Python-9333EA?style=for-the-badge&logo=python&logoColor=white"/>
@@ -99,27 +101,29 @@ class BhuvanS(AIEngineer):
     </td>
   </tr>
   <tr>
-    <td align="center" width="180">
-      <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="45"/><br/>
-      <strong>🌐 Web<br/>Development</strong>
+    <td align="center" width="170">
+      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="55"/><br/>
+      <strong>Web<br/>Development</strong>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/React-6D28D9?style=for-the-badge&logo=react&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Flask-6D28D9?style=for-the-badge&logo=flask&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HTML5-6D28D9?style=for-the-badge&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-6D28D9?style=for-the-badge&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-C026D3?style=for-the-badge&logo=react&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flask-C026D3?style=for-the-badge&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-C026D3?style=for-the-badge&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Next.js-C026D3?style=for-the-badge&logo=next.js&logoColor=white"/>
+     
     </td>
   </tr>
   <tr>
-    <td align="center" width="180">
-      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="45"/><br/>
-      <strong>🗄️ Databases<br/>& Tools</strong>
+    <td align="center" width="170">
+      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="55"/><br/>
+      <strong>Databases<br/>& Tools</strong>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/MongoDB-5B21B6?style=for-the-badge&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-5B21B6?style=for-the-badge&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Git-5B21B6?style=for-the-badge&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Figma-5B21B6?style=for-the-badge&logo=figma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-DB2777?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-DB2777?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-DB2777?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-DB2777?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Figma-DB2777?style=for-the-badge&logo=figma&logoColor=white"/>
     </td>
   </tr>
 </table>
